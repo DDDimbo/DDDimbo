@@ -7,5 +7,5 @@
 <!-- ![](https://komarev.com/ghpvc/?username=DDDimbo) -->
 
 
-[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=algolia)](https://github.com/piyushsuthar/github-readme-quotes)
+[![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
 
