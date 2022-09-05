@@ -1,12 +1,17 @@
 <h1 align="center">Hi there, I'm <a target="_blank">Dmitry</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-<!-- <h3 align="center">Computer science student of the Moscow University of RTU MIREA 🇷🇺</h3> -->
+<h3 align="center">Computer science student of the Moscow University of RTU MIREA 🇷🇺</h3>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=5500&pause=4500&center=true&width=1000&lines=Computer+science+student+of+the+Moscow+University+of+RTU+MIREA+%F0%9F%87%B7%F0%9F%87%BA" alt="Typing SVG" /></a>
 
 ---
-<!-- &nbsp; -->
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dddimbo&label=Profile%20views&color=0e75b6&style=flat" alt="dddimbo" /> </p>
+
+<!-- &nbsp; -->
+<h2 align="center">Short information about me
+  
+![XiPu](https://user-images.githubusercontent.com/92802270/188473250-7cbab6be-91b1-4f22-a12f-addc7c4f2c04.gif)
+  
+</h2> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dddimbo" alt="dddimbo" /></a> </p>
 
