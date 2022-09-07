@@ -5,9 +5,8 @@
 
 ---
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dddimbo&label=Profile%20views&color=0e75b6&style=flat" alt="dddimbo" /> </p>
-
 <!-- &nbsp; -->
-<h2 align="center">Short information about me
+<h2 align="center">
   
 ![XiPu](https://user-images.githubusercontent.com/92802270/188473250-7cbab6be-91b1-4f22-a12f-addc7c4f2c04.gif)
   
