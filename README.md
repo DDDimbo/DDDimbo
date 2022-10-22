@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dddimbo" alt="dddimbo" /></a> </p>
 
-- 📫 How to reach me **vinokurov1540@bk.ru**
+<!-- - 📫 How to reach me **vinokurov1540@bk.ru** -->
 
 - ⚡ Fun fact **: big barca fun 🔵🔴**
 
