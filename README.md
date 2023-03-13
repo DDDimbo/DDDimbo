@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **vinokurov1540@bk.ru**
 
-- ⚡ Fun fact **: big barca fun 🔵🔴**
+- ⚡ Fun fact **: big barca fun 🔵🔴** 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -33,6 +33,7 @@
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=vertical&theme=catppuccin)](https://github.com/piyushsuthar/github-readme-quotes)
   
 </h2> 
-
+ 
+ 
 
 <!-- Добавить больше статистики -->
